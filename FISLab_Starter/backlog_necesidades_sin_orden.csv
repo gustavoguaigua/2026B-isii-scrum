@@ -1,0 +1,11 @@
+id,necesidad
+N01,Consultar laboratorios disponibles
+N02,Consultar disponibilidad por fecha y franja horaria
+N03,Registrar una reserva
+N04,Evitar reservas que se solapen en el mismo laboratorio
+N05,Consultar mis reservas
+N06,Cancelar una reserva futura
+N07,Bloquear un laboratorio por mantenimiento
+N08,Confirmar que una reserva fue registrada
+N09,Filtrar laboratorios por capacidad o equipamiento
+N10,Consultar reservas como administrador
